@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Tibber vervekode" />
         <p className="description">
-          Få 500 kr å handle for i Tibber Store:  <a href="https://invite.tibber.com/xje5996b">xje5996b</a> 
+          Bli kunde hos Tibber innen 12. oktober og få 1000 kr å handle for i Tibber Store:  <a href="https://invite.tibber.com/xje5996b">https://invite.tibber.com/xje5996b</a> 
         </p>
       </main>
 
